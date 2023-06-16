@@ -1,0 +1,34 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+.container{
+	width:95%;
+	margin:auto;
+}
+button{
+	width:50%;
+	margin:auto;
+	padding:10px 0;
+	background-color:#0a66c2;
+	border-radius:20px;
+	text-align:center;
+	font-weight:600;
+	margin-top:150px;
+    border: 1px solid blue;
+    color:#ffffff;
+}
+.color-chng{
+    border: 1px solid blue;
+    width:30%;
+    padding: 20px;
+    margin-top: 20px;
+}
+section{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height: 50vh;
+}
